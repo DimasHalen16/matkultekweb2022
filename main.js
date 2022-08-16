@@ -13,7 +13,7 @@ Vue.createApp({
           },
           fb: {
             url: "#",
-            title: "Rezky Septiodimas Halen",
+            title: "DimasHalen16",
           },
         },
         imageProfile:
