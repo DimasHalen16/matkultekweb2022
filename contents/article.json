@@ -1,0 +1,23 @@
+[
+    {
+      "ID" : "1",
+      "title" : "Teh ",
+      "description" : "teh adalah minuman yang mengandung kafeina, sebuah infusi yang dibuat dengan cara menyeduh daun, pucuk daun, atau tangkai daun.",
+      "thumbnail" : "teh.jpeg",
+      "content":"articles1.md"
+    },
+    {
+      "ID" : "2",
+      "title": "Teh Hijau",
+      "description": "Teh Hijau Sebagai Antioksidan.",
+      "thumbnail": "tehhijau.jpeg",
+      "content":"articles2.md"
+    },
+    {
+      "ID" : "3",
+      "title": "Mancing",
+      "description": "Menyeruput kopi sambil memahami proses pengolahannya hingga sampai di cangkir kita merupakan salah satu cara untuk mensyukuri kenikmatannya.",
+      "thumbnail": "kopihitam.jpeg",
+      "content":"articles3.md"
+    }
+  ]
